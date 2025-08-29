@@ -1,0 +1,8 @@
+name = "meta-worker"
+main = "index.js"
+compatibility_date = "2025-08-29"
+
+[vars]
+APP_ID = "your-meta-app-id"
+APP_SECRET = "your-meta-app-secret"
+REDIRECT_URI = "https://your-worker.yourname.workers.dev/callback"
